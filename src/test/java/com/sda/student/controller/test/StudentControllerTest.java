@@ -75,7 +75,7 @@ public class StudentControllerTest {
         String result = "{\n" +
                 "            \"firstName\": \"Test\",\n" +
                 "                \"lastName\": \"Student\",\n" +
-                "                \"address\": {\n" +
+                "                \"addressInfo\": {\n" +
                 "            \"line1\": \"202 Hartnell pl\",\n" +
                 "                    \"line2\": \"Apt 451\",\n" +
                 "                    \"country\": \"USA\",\n" +
